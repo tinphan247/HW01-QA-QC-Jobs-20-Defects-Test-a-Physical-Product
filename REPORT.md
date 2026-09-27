@@ -59,91 +59,81 @@ All postings were collected from premier tech recruitment channels within 60 day
 
 ---
 
-### Job 1: Senior QA Engineer (AI & Automation)
+### Job 1: Senior QA Engineer (Automation, Selenium, Playwright)
 *Mandatory AI-Skill Role*
 
-- **Company & Location:** Zeya Labs AI — Ho Chi Minh City, Vietnam (Hybrid)
-- **Date Published:** August 25, 2026 (Published within 35 days)
-- **Source Link:** [ITviec - Zeya Labs Careers](https://itviec.com/nha-tuyen-dung/zeya-labs)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Responsible for establishing automated testing frameworks for generative AI models, LLM pipelines, and conversational AI agents. Design end-to-end regression test suites, evaluate prompt responses, and build automated benchmarks to detect AI hallucinations and model drift.
-- **Required Skills:**
-  - Automated testing with Playwright, Selenium, and Cypress.
-  - Python / TypeScript test automation scripting.
-  - Experience in LLM benchmarking, prompt evaluation, and API verification (REST / gRPC).
-  - ISTQB Certified Tester Foundation Level (CTFL) preferred.
-- **Salary:** $1,500 – $2,500 USD / month (~38,000,000 – 63,000,000 VND).
-- **AI Impact Analysis:** This role directly assesses non-deterministic generative AI behavior, demonstrating that modern QA requires probabilistic evaluation methods and prompt testing rather than purely deterministic assertions.
+- **Company & Location:** Zeya Labs AI — Phòng L5-20, Tầng 5, Số 343, đường Hoàng Sa, Phường Tân Định, TP Hồ Chí Minh (Tại văn phòng)
+- **Date Published:** Đăng 12 ngày trước (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - Zeya Labs Job 5714](https://itviec.com/viec-lam-it/senior-qa-engineer-automation-selenium-playwright-zeya-labs-ai-5714)
+- **Job Description:** Responsible for setting up and executing automated testing suites for software, web services, and AI systems. Design automated test architectures using modern testing frameworks, validate backend APIs, and ensure quality pipelines in CI/CD environments.
+- **Required Skills:** Automation Test, Jenkins, API, Cypress, Playwright, Selenium.
+- **Salary:** *You'll love it* (Mức lương cạnh tranh theo năng lực).
+- **AI Impact Analysis:** Operates within an AI and hardware computing domain where automated testing frameworks (Playwright, Selenium) leverage AI-assisted test authoring, requiring engineers to orchestrate AI test tools and maintain resilient CI/CD pipelines.
+
+![Dated Screenshot of Job 1 - Zeya Labs AI](screenshots/job01_zeya_labs.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
-### Job 2: Automation Tester (AI Software & Services)
+### Job 2: Automation Tester (QA QC/ Tester/ Japanese N3+)
 *Mandatory AI-Skill Role*
 
-- **Company & Location:** TrustedAI — Ho Chi Minh City, Vietnam (Hybrid / Japanese N3+)
-- **Date Published:** September 02, 2026 (Published within 25 days)
-- **Source Link:** [ITviec - TrustedAI Careers](https://itviec.com/nha-tuyen-dung/trustedai)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Design and implement test automation architectures for enterprise AI software and data services. Build automated CI/CD quality gates, validate machine learning data pipelines, and verify enterprise SaaS integrations.
-- **Required Skills:**
-  - Automation testing with Python, Selenium, Appium, or Playwright.
-  - Understanding of AI data pipeline validation, API testing (Postman, Newman).
-  - CI/CD integration with Jenkins, GitLab CI, or GitHub Actions.
-  - Japanese proficiency (N3+) or professional English.
-- **Salary:** 30,000,000 – 50,000,000 VND / month (~$1,200 – $2,000 USD).
-- **AI Impact Analysis:** As AI models are embedded into commercial SaaS products, test engineers must validate both the functional software layer and the underlying ML data processing pipelines.
+- **Company & Location:** TrustedAI — Tầng 06, Số 385 Hoàng Quốc Việt, Phường Nghĩa Đô, Cầu Giấy, Hà Nội (Tại văn phòng)
+- **Date Published:** Đăng 4 ngày trước (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - TrustedAI Job 2550](https://itviec.com/viec-lam-it/automation-tester-qa-qc-tester-japanese-n3-trustedai-2550)
+- **Job Description:** Perform test automation for specialized AI software products and services ("Empowering humanity through trusted AI"). Formulate test plans, automate regression scenarios, validate AI data processing integrity, and communicate directly with Japanese stakeholders.
+- **Required Skills:** Automation Test, Japanese (N3+), AI, QA QC.
+- **Salary:** 800 – 1,500 USD / tháng (~20,000,000 – 38,000,000 VND).
+- **AI Impact Analysis:** As an AI-first product firm, this role focuses on validating AI software and services, illustrating that modern QA requires testing both the application layer and non-deterministic AI algorithmic outputs.
+
+![Dated Screenshot of Job 2 - TrustedAI](screenshots/job02_trusted_ai.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
 ### Job 3: Senior Automation Test (AI, QA QC, API)
 *Mandatory AI-Skill Role*
 
-- **Company & Location:** Floware — Ho Chi Minh City, Vietnam (On-site / Flexible)
-- **Date Published:** August 28, 2026 (Published within 30 days)
-- **Source Link:** [ITviec - Floware Careers](https://itviec.com/nha-tuyen-dung/floware)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Lead the quality engineering team in deploying AI-assisted test automation for enterprise communication platforms. Integrate AI test generators, manage API testing suites, and optimize test execution cycles in cloud environments.
-- **Required Skills:**
-  - In-depth automation experience with Playwright / Cypress / Selenium.
-  - API testing (REST, WebSocket), microservices architecture testing.
-  - Familiarity with AI-driven test creation tools and smart test impact analysis (TIA).
-  - Performance and load testing experience with JMeter or k6.
-- **Salary:** 35,000,000 – 55,000,000 VND / month (~$1,400 – $2,200 USD).
-- **AI Impact Analysis:** The QA engineer leverages AI to automatically generate boundary test cases and API payloads, shifting human effort toward high-level architectural reliability and flaky-test triage.
+- **Company & Location:** Floware — 43D/52 Hồ Văn Huê, Phường 9, Quận Phú Nhuận, TP Hồ Chí Minh (Tại văn phòng)
+- **Date Published:** Đăng 23 ngày trước (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - Floware Job 1219](https://itviec.com/viec-lam-it/senior-automation-test-ai-qa-qc-api-floware-1219)
+- **Job Description:** Lead automated testing efforts for enterprise productivity software suites. Build end-to-end automation test suites, execute comprehensive API and microservices validation, and integrate automated quality gates into continuous integration workflows.
+- **Required Skills:** AI, QA QC, API, Automation Test (Selenium / Playwright).
+- **Salary:** *You'll love it* (Chế độ đãi ngộ hấp dẫn theo năng lực).
+- **AI Impact Analysis:** Floware explicitly requires AI proficiency combined with API test automation, demonstrating the trend where QA engineers apply AI techniques to accelerate API test creation and boundary data generation.
+
+![Dated Screenshot of Job 3 - Floware](screenshots/job03_floware.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
-### Job 4: Mid/Senior Test Automation Engineer (AI-Augmented QA Delivery)
+### Job 4: Mid/Senior Test Automation Engineer - BONUS
 *Mandatory AI-Skill Role*
 
-- **Company & Location:** EPAM Systems Vietnam — Ho Chi Minh City / Remote
-- **Date Published:** September 10, 2026 (Published within 17 days)
-- **Source Link:** [ITviec - EPAM Systems Vietnam](https://itviec.com/nha-tuyen-dung/epam-systems-vietnam)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Architect scalable automated testing solutions for international Fortune 500 clients. Utilize EPAM's proprietary AI testing accelerators (AI-augmented code analysis, test generation, and defect prediction) to deliver high-velocity test suites.
-- **Required Skills:**
-  - Java or TypeScript with Playwright / Selenium WebDriver.
-  - Experience with AI-augmented test engineering tools and LLM code generation.
-  - BDD frameworks (Cucumber/Gherkin), Docker, cloud testing grids.
-  - Strong consultative communication skills in English.
-- **Salary:** $1,800 – $3,200 USD / month (~45,000,000 – 80,000,000 VND).
-- **AI Impact Analysis:** Global software consultancies now mandate that test automation engineers orchestrate AI agents for code generation while enforcing strict architectural design patterns to prevent code rot.
+- **Company & Location:** EPAM Vietnam — MB Sunny Tower, 259 Trần Hưng Đạo, Cầu Ông Lãnh, TP.HCM / Dolphin Plaza, Hà Nội / Làm từ xa (Remote)
+- **Date Published:** Đăng gần đây (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - EPAM Vietnam Job 0903](https://itviec.com/viec-lam-it/mid-senior-test-automation-engineer-bonus-epam-vietnam-0903)
+- **Job Description:** Deliver enterprise-grade test automation architectures for international digital transformation projects. Leverage EPAM's cutting-edge AI-assisted test automation accelerators and cloud testing infrastructures to optimize test delivery for global Fortune 500 enterprises.
+- **Required Skills:** Test Automation, Playwright / Selenium, Java / TypeScript, CI/CD, English.
+- **Salary:** *You'll love it* (Kèm chương trình tuyển dụng BONUS đặc biệt).
+- **AI Impact Analysis:** EPAM empowers automation engineers with internal GenAI testing accelerators, shifting QA responsibility from manual script scripting to managing AI test generation and enterprise framework architecture.
+
+![Dated Screenshot of Job 4 - EPAM Vietnam](screenshots/job04_epam_vietnam.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
-### Job 5: QA Engineer (Tester, QA QC, AI System Integration)
-- **Company & Location:** Saritasa Vietnam — District 3, Ho Chi Minh City (Hybrid)
-- **Date Published:** August 18, 2026 (Published within 40 days)
-- **Source Link:** [ITviec - Saritasa Vietnam](https://itviec.com/nha-tuyen-dung/saritasa-vietnam)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Participate in full-cycle quality assurance for US-based clients building custom mobile, web, and IoT applications with embedded AI capabilities. Formulate test plans, design integration test scenarios, and collaborate directly with US technical leads.
-- **Required Skills:**
-  - Web & Mobile testing (iOS/Android), API testing with Postman.
-  - Familiarity with AI service integrations (OpenAI APIs, vision models).
-  - Excellent English communication skills (verbal and written).
-  - Agile/Scrum methodologies, JIRA, TestRail.
-- **Salary:** 25,000,000 – 42,000,000 VND / month.
-- **AI Impact Analysis:** Cross-functional testing of AI integrations requires QA to verify graceful degradation when third-party AI APIs experience high latency or unexpected rate limits.
+### Job 5: QA Engineer (Tester, QA QC, English) Up to $1500
+- **Company & Location:** Saritasa — Tầng 7, L'Mak Long Tower, số 101-103 Nguyễn Cửu Vân, Gia Định, Bình Thạnh, TP Hồ Chí Minh (Tại văn phòng)
+- **Date Published:** Đăng 4 ngày trước (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - Saritasa Job 4856](https://itviec.com/viec-lam-it/qa-engineer-tester-qa-qc-english-up-to-1500-saritasa-4856)
+- **Job Description:** Conduct full-lifecycle QA/QC and integration testing for custom web, mobile, and IoT software platforms developed for US clients. Create test documentation, track defects, and collaborate directly with US-based software engineering teams.
+- **Required Skills:** Tester, QA QC, English (fluent), Integration Test, Web & Mobile Testing.
+- **Salary:** 1,000 – 1,500 USD / tháng (~25,000,000 – 38,000,000 VND).
+- **AI Impact Analysis:** As software solutions increasingly integrate third-party AI APIs, human QA engineers are critical to verifying seamless end-to-end integration and human user experience that automated tools cannot evaluate.
+
+![Dated Screenshot of Job 5 - Saritasa](screenshots/job05_saritasa.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
