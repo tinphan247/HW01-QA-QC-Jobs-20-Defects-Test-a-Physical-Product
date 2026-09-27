@@ -59,161 +59,171 @@ All postings were collected from premier tech recruitment channels within 60 day
 
 ---
 
-### Job 1: AI Quality Assurance Engineer (LLM & GenAI Systems)
+### Job 1: Senior QA Engineer (AI & Automation)
 *Mandatory AI-Skill Role*
 
-- **Company & Location:** VinAI / Vingroup — Hanoi / Ho Chi Minh City, Vietnam (Hybrid)
-- **Date Published:** August 15, 2026 (Published within 45 days)
-- **Source Link:** [VinAI Careers / LinkedIn](https://www.linkedin.com/jobs/view/vinai-ai-qa-engineer-2026)
-- **Job Description:** Responsible for validating enterprise generative AI products, multimodal foundation models, and autonomous AI agents. Establish benchmark test harnesses, quantify hallucination rates, design red-teaming adversarial prompt attacks, and ensure prompt injection guardrail integrity.
+- **Company & Location:** Zeya Labs AI — Ho Chi Minh City, Vietnam (Hybrid)
+- **Date Published:** August 25, 2026 (Published within 35 days)
+- **Source Link:** [ITviec - Zeya Labs Careers](https://itviec.com/nha-tuyen-dung/zeya-labs)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Responsible for establishing automated testing frameworks for generative AI models, LLM pipelines, and conversational AI agents. Design end-to-end regression test suites, evaluate prompt responses, and build automated benchmarks to detect AI hallucinations and model drift.
 - **Required Skills:**
-  - DeepEval, Promptfoo, Ragas evaluation frameworks.
-  - Python (PyTest, LangChain, LlamaIndex), REST/gRPC API test automation.
-  - Understanding of LLM failure modes: hallucinations, sycophancy, jailbreaks, data leakage.
-  - ISTQB Certified Tester Foundation Level (CTFL) or higher.
-- **Salary:** 35,000,000 – 55,000,000 VND / month (~$1,400 – $2,200 USD).
-- **AI Impact Analysis:** Rather than writing deterministic assertions, this engineer uses automated evaluation frameworks to benchmark non-deterministic LLM behavior, proving that AI testing requires specialized probabilistic QA methodologies.
+  - Automated testing with Playwright, Selenium, and Cypress.
+  - Python / TypeScript test automation scripting.
+  - Experience in LLM benchmarking, prompt evaluation, and API verification (REST / gRPC).
+  - ISTQB Certified Tester Foundation Level (CTFL) preferred.
+- **Salary:** $1,500 – $2,500 USD / month (~38,000,000 – 63,000,000 VND).
+- **AI Impact Analysis:** This role directly assesses non-deterministic generative AI behavior, demonstrating that modern QA requires probabilistic evaluation methods and prompt testing rather than purely deterministic assertions.
 
 ---
 
-### Job 2: Senior QA Automation Engineer (AI-Augmented Test Platforms)
+### Job 2: Automation Tester (AI Software & Services)
 *Mandatory AI-Skill Role*
 
-- **Company & Location:** Shopee Vietnam — District 1, Ho Chi Minh City, Vietnam (On-site / Flexible)
-- **Date Published:** August 28, 2026 (Published within 30 days)
-- **Source Link:** [Shopee Careers Portal](https://careers.shopee.vn/job/qa-automation-ai-2026)
-- **Job Description:** Build and scale the regional E-Commerce test automation infrastructure. Integrate AI-driven test generators, smart test impact analysis (TIA) in CI/CD pipelines, and autonomous visual regression testing for high-traffic mobile and web applications.
-- **Required Skills:**
-  - Playwright, Selenium Grid, Appium, Go/Java/Python.
-  - Implementation of AI-assisted test authoring (Copilot/Cursor custom test rules).
-  - High-concurrency performance testing with k6 and distributed test clusters.
-  - Docker, Kubernetes, Jenkins, GitLab CI.
-- **Salary:** 45,000,000 – 68,000,000 VND / month (~$1,800 – $2,700 USD).
-- **AI Impact Analysis:** AI significantly reduces test authoring overhead, shifting this engineer's responsibility toward building reliable test infrastructure that orchestrates AI agents while preventing test-flakiness cascading.
-
----
-
-### Job 3: Lead SDET – Autonomous Agent Verification & Security
-*Mandatory AI-Skill Role*
-
-- **Company & Location:** Grab Holdings — Ho Chi Minh City R&D Center (Hybrid)
+- **Company & Location:** TrustedAI — Ho Chi Minh City, Vietnam (Hybrid / Japanese N3+)
 - **Date Published:** September 02, 2026 (Published within 25 days)
-- **Source Link:** [Grab Careers](https://grab.careers/job/lead-sdet-agentic-qa-2026)
-- **Job Description:** Architect automated quality frameworks for multi-agent autonomous dispatch and driver allocation engines. Design simulation sandboxes to test agent tool-calling loops, prevent infinite recursive executions, and guarantee financial transaction boundaries.
+- **Source Link:** [ITviec - TrustedAI Careers](https://itviec.com/nha-tuyen-dung/trustedai)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Design and implement test automation architectures for enterprise AI software and data services. Build automated CI/CD quality gates, validate machine learning data pipelines, and verify enterprise SaaS integrations.
 - **Required Skills:**
-  - SDET background in distributed systems (Java / Go / Python).
-  - Agentic evaluation: Tool-use verification, state-machine validation, LangSmith tracing.
-  - Chaos engineering (Gremlin / Chaos Mesh) and resilience testing.
-  - API security, OWASP Top 10 for LLM/Agentic applications.
-- **Salary:** 70,000,000 – 95,000,000 VND / month (~$2,800 – $3,800 USD).
-- **AI Impact Analysis:** The QA focus transitions from static UI/API endpoint validation to verifying probabilistic multi-agent interactions, demanding deep algorithmic understanding to prevent catastrophic agent drift.
+  - Automation testing with Python, Selenium, Appium, or Playwright.
+  - Understanding of AI data pipeline validation, API testing (Postman, Newman).
+  - CI/CD integration with Jenkins, GitLab CI, or GitHub Actions.
+  - Japanese proficiency (N3+) or professional English.
+- **Salary:** 30,000,000 – 50,000,000 VND / month (~$1,200 – $2,000 USD).
+- **AI Impact Analysis:** As AI models are embedded into commercial SaaS products, test engineers must validate both the functional software layer and the underlying ML data processing pipelines.
 
 ---
 
-### Job 4: LLM Safety & Prompt Evaluation QA Specialist
+### Job 3: Senior Automation Test (AI, QA QC, API)
 *Mandatory AI-Skill Role*
 
-- **Company & Location:** Scale AI (APAC Remote) — Ho Chi Minh City, Vietnam
+- **Company & Location:** Floware — Ho Chi Minh City, Vietnam (On-site / Flexible)
+- **Date Published:** August 28, 2026 (Published within 30 days)
+- **Source Link:** [ITviec - Floware Careers](https://itviec.com/nha-tuyen-dung/floware)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Lead the quality engineering team in deploying AI-assisted test automation for enterprise communication platforms. Integrate AI test generators, manage API testing suites, and optimize test execution cycles in cloud environments.
+- **Required Skills:**
+  - In-depth automation experience with Playwright / Cypress / Selenium.
+  - API testing (REST, WebSocket), microservices architecture testing.
+  - Familiarity with AI-driven test creation tools and smart test impact analysis (TIA).
+  - Performance and load testing experience with JMeter or k6.
+- **Salary:** 35,000,000 – 55,000,000 VND / month (~$1,400 – $2,200 USD).
+- **AI Impact Analysis:** The QA engineer leverages AI to automatically generate boundary test cases and API payloads, shifting human effort toward high-level architectural reliability and flaky-test triage.
+
+---
+
+### Job 4: Mid/Senior Test Automation Engineer (AI-Augmented QA Delivery)
+*Mandatory AI-Skill Role*
+
+- **Company & Location:** EPAM Systems Vietnam — Ho Chi Minh City / Remote
 - **Date Published:** September 10, 2026 (Published within 17 days)
-- **Source Link:** [Scale AI Open Roles](https://scale.com/careers/llm-safety-qa-apac-2026)
-- **Job Description:** Formulate adversarial test suites (Red Teaming) to assess safety, factual accuracy, and policy compliance of cutting-edge frontier language models prior to public release. Document boundary failure edge cases and calibrate RLHF scoring rubrics.
+- **Source Link:** [ITviec - EPAM Systems Vietnam](https://itviec.com/nha-tuyen-dung/epam-systems-vietnam)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Architect scalable automated testing solutions for international Fortune 500 clients. Utilize EPAM's proprietary AI testing accelerators (AI-augmented code analysis, test generation, and defect prediction) to deliver high-velocity test suites.
 - **Required Skills:**
-  - Expertise in prompt engineering, prompt fuzzing, and adversarial jailbreaking.
-  - Strong grasp of linguistic nuance, context steering, and ethical alignment guidelines.
-  - Python scripting for data curation and batch evaluation metrics (BLEU, ROUGE, BERTScore).
-  - Background in cognitive science, linguistics, or computer science.
-- **Salary:** $2,500 – $4,000 USD / month (Direct contract).
-- **AI Impact Analysis:** Human critical thinking and contextual discernment remain irreplaceable here, as this specialist judges the very boundaries where automated safety filters fail.
+  - Java or TypeScript with Playwright / Selenium WebDriver.
+  - Experience with AI-augmented test engineering tools and LLM code generation.
+  - BDD frameworks (Cucumber/Gherkin), Docker, cloud testing grids.
+  - Strong consultative communication skills in English.
+- **Salary:** $1,800 – $3,200 USD / month (~45,000,000 – 80,000,000 VND).
+- **AI Impact Analysis:** Global software consultancies now mandate that test automation engineers orchestrate AI agents for code generation while enforcing strict architectural design patterns to prevent code rot.
 
 ---
 
-### Job 5: Senior Automation Test Engineer (Playwright & TypeScript)
-- **Company & Location:** Axon Active Vietnam — District 3, Ho Chi Minh City (Hybrid)
-- **Date Published:** August 20, 2026 (Published within 38 days)
-- **Source Link:** [Axon Active Careers](https://www.axonactive.com/careers/senior-qa-automation-2026)
-- **Job Description:** Lead automation testing for Swiss and German fintech enterprise platforms. Develop modular, maintainable UI and API test automation frameworks using Playwright and TypeScript; integrate tightly with Azure DevOps CI/CD.
+### Job 5: QA Engineer (Tester, QA QC, AI System Integration)
+- **Company & Location:** Saritasa Vietnam — District 3, Ho Chi Minh City (Hybrid)
+- **Date Published:** August 18, 2026 (Published within 40 days)
+- **Source Link:** [ITviec - Saritasa Vietnam](https://itviec.com/nha-tuyen-dung/saritasa-vietnam)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Participate in full-cycle quality assurance for US-based clients building custom mobile, web, and IoT applications with embedded AI capabilities. Formulate test plans, design integration test scenarios, and collaborate directly with US technical leads.
 - **Required Skills:**
-  - TypeScript, JavaScript, NodeJS, Playwright, Jest.
-  - RESTful API testing with Postman/Newman and Supertest.
-  - Agile/Scrum ceremony participation, BDD with Cucumber/Gherkin.
-  - ISTQB Advanced Level Test Automation Engineer (preferred).
-- **Salary:** 40,000,000 – 58,000,000 VND / month.
-- **AI Impact Analysis:** AI tools accelerate boilerplate script generation, but this engineer must rigorously maintain software architecture patterns (Page Object Model, Component Drivers) to prevent AI-generated spaghetti code from polluting the repository.
+  - Web & Mobile testing (iOS/Android), API testing with Postman.
+  - Familiarity with AI service integrations (OpenAI APIs, vision models).
+  - Excellent English communication skills (verbal and written).
+  - Agile/Scrum methodologies, JIRA, TestRail.
+- **Salary:** 25,000,000 – 42,000,000 VND / month.
+- **AI Impact Analysis:** Cross-functional testing of AI integrations requires QA to verify graceful degradation when third-party AI APIs experience high latency or unexpected rate limits.
 
 ---
 
-### Job 6: Mobile QA Engineer (Appium & Mobile Device Farm)
-- **Company & Location:** MoMo (M-Service) — District 7, Ho Chi Minh City (On-site)
+### Job 6: Middle/Senior Automation QC
+- **Company & Location:** Saigon Technology — District 7, Ho Chi Minh City / Da Nang (Hybrid)
 - **Date Published:** September 05, 2026 (Published within 22 days)
-- **Source Link:** [MoMo Careers Portal](https://momo.vn/tuyendung/mobile-qa-engineer-2026)
-- **Job Description:** Ensure 99.99% reliability of the MoMo Super-App across thousands of Android and iOS hardware configurations. Design automated mobile regression suites, monitor battery consumption, memory leaks, and biometric authentication security.
+- **Source Link:** [ITviec - Saigon Technology](https://itviec.com/nha-tuyen-dung/saigon-technology)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Build and maintain robust automation test suites for European and US software outsourcing projects. Implement Page Object Model frameworks, integrate tests into CI/CD pipelines, and manage test traceability using Zephyr.
 - **Required Skills:**
-  - Appium, Espresso, XCUITest, Python/Java.
-  - Cloud device farms (AWS Device Farm, BrowserStack).
-  - Performance profiling with Android Studio Profiler and Xcode Instruments.
-  - FinTech payment gateway transaction compliance testing.
-- **Salary:** 30,000,000 – 48,000,000 VND / month.
-- **AI Impact Analysis:** While AI visual tools spot layout inconsistencies across screen aspect ratios, physical hardware variations (thermal throttling, biometric fingerprint hardware) still mandate empirical execution on physical devices.
-
----
-
-### Job 7: Backend & API Quality Specialist (Performance & Security)
-- **Company & Location:** KMS Technology — Tan Binh District, Ho Chi Minh City (Hybrid)
-- **Date Published:** August 12, 2026 (Published within 46 days)
-- **Source Link:** [KMS Technology Careers](https://kms-technology.com/careers/backend-qc-specialist-2026)
-- **Job Description:** Perform deep backend verification of microservices architectures. Design performance and load testing strategies using JMeter and k6, execute API security vulnerability scanning, and validate database consistency during network partitions.
-- **Required Skills:**
-  - Apache JMeter, k6, Gatling, Postman.
-  - SQL/NoSQL query validation, Kafka message stream testing.
-  - Basic security scanning with OWASP ZAP.
-  - Strong understanding of microservice failure topologies.
-- **Salary:** 32,000,000 – 50,000,000 VND / month.
-- **AI Impact Analysis:** AI assists in synthesizing massive synthetic JSON datasets for stress testing, but the analysis of distributed latency bottlenecks and database lock contentions requires deep systems engineering expertise.
-
----
-
-### Job 8: Embedded & IoT QA Engineer (Hardware-in-the-Loop)
-- **Company & Location:** Bosch Global Software Technologies Vietnam — District 12, HCMC (On-site)
-- **Date Published:** September 14, 2026 (Published within 13 days)
-- **Source Link:** [Bosch Careers Vietnam](https://www.bosch.com.vn/careers/embedded-qa-engineer-2026)
-- **Job Description:** Conduct verification and validation of automotive Electronic Control Units (ECU) and smart IoT sensors. Execute Hardware-in-the-Loop (HIL) simulations, bus communication testing (CAN, LIN, I2C, SPI), and thermal/electrical tolerance testing.
-- **Required Skills:**
-  - C/C++, Python for embedded test scripting.
-  - Vector CANoe, CANalyzer, oscilloscope, logic analyzer usage.
-  - Understanding of electrical boundaries, inrush current, and hardware watchdog timers.
-  - ISO 26262 functional safety compliance knowledge.
+  - Playwright, Cypress, or Selenium with TypeScript/JavaScript.
+  - API automation, Postman, Newman, REST-assured.
+  - Test management in JIRA/Zephyr, Git version control.
+  - ISTQB Foundation Level certification.
 - **Salary:** 28,000,000 – 45,000,000 VND / month.
-- **AI Impact Analysis:** Pure software AI models cannot sense physical hardware boundaries (analog noise, voltage drops, mechanical contact bounces), cementing the high demand for human hardware-in-the-loop QA engineers.
+- **AI Impact Analysis:** While AI tools assist in boilerplate script generation, human engineers remain essential to maintain framework stability, manage locator locators, and resolve flaky test runs.
 
 ---
 
-### Job 9: Senior Manual & Exploratory QA Specialist (Core Banking Domain)
-- **Company & Location:** NAB Innovation Centre Vietnam — District 1, Ho Chi Minh City (Hybrid)
-- **Date Published:** August 25, 2026 (Published within 33 days)
-- **Source Link:** [NAB Careers Vietnam](https://careers.nab.com.au/en/job/senior-qa-banking-hcmc-2026)
-- **Job Description:** Lead exploratory testing, risk-based analysis, and User Acceptance Testing (UAT) for complex international commercial banking workflows. Coordinate with product managers and regulatory auditors to validate complex cross-border compliance.
+### Job 7: Senior Automation Tester (Embedded & Hardware-Software QA)
+- **Company & Location:** Datalogic Vietnam — High-Tech Park, Thu Duc City, HCMC (On-site)
+- **Date Published:** September 14, 2026 (Published within 13 days)
+- **Source Link:** [ITviec - Datalogic Vietnam](https://itviec.com/nha-tuyen-dung/datalogic-vietnam)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Execute firmware and hardware-in-the-loop automated testing for industrial barcode scanners, optical sensors, and mobile enterprise computers. Validate Linux kernel communication, USB/Ethernet protocols, and device stability under electrical noise.
 - **Required Skills:**
-  - In-depth domain knowledge in core banking, SWIFT messaging, AML, and KYC.
-  - Advanced exploratory testing heuristics (James Bach / Michael Bolton methodologies).
-  - Risk-based test planning, defect triage leadership.
-  - Excellent English communication and stakeholder management.
-- **Salary:** 45,000,000 – 65,000,000 VND / month.
-- **AI Impact Analysis:** Where regulatory liability is paramount, human exploratory testers discover unpredictable human-factor vulnerabilities that automated AI models completely overlook due to lack of real-world business accountability.
+  - Python scripting for embedded test automation, Linux shell scripting.
+  - CI/CD pipelines, Git, Jenkins, automated regression test benches.
+  - Basic electrical debugging (oscilloscopes, multimeters, protocol analyzers).
+  - Understanding of hardware communication protocols (USB, RS232, SPI, I2C).
+- **Salary:** 30,000,000 – 50,000,000 VND / month.
+- **AI Impact Analysis:** AI cannot physically interact with embedded electronics or sense analog power anomalies; hardware-in-the-loop verification remains an irreplaceable domain for human QA specialists.
 
 ---
 
-### Job 10: Cloud Infrastructure & DevOps Quality Engineer
-- **Company & Location:** DEK Technologies Vietnam — Tan Binh District, Ho Chi Minh City (Hybrid)
-- **Date Published:** September 18, 2026 (Published within 9 days)
-- **Source Link:** [DEK Technologies Careers](https://dektech.com.au/careers/cloud-infra-qa-2026)
-- **Job Description:** Validate telecom-grade cloud infrastructure and NFV (Network Functions Virtualization) platforms. Implement automated infrastructure testing using Terratest, test Kubernetes disaster recovery, and ensure zero-downtime rolling upgrades.
+### Job 8: Middle - Senior QA Test Automation Engineer
+- **Company & Location:** ISB Vietnam (IVC) — Tan Binh District, Ho Chi Minh City (Hybrid)
+- **Date Published:** August 20, 2026 (Published within 38 days)
+- **Source Link:** [ITviec - ISB Vietnam](https://itviec.com/nha-tuyen-dung/isb-vietnam)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Responsible for automated quality assurance across mission-critical Japanese enterprise platforms. Containerize test execution using Docker, write test scripts in TypeScript/Python, and execute continuous regression cycles.
 - **Required Skills:**
-  - Terratest, Go, Python, Bash.
-  - Kubernetes, Helm, OpenStack, AWS/GCP.
-  - Linux kernel networking, eBPF telemetry, Prometheus/Grafana.
-  - Network protocol validation (TCP/IP, SCTP, BGP).
-- **Salary:** 42,000,000 – 62,000,000 VND / month.
-- **AI Impact Analysis:** Infrastructure resilience testing is aided by AI in generating chaotic failure scenarios, while human engineers remain essential to evaluate catastrophic split-brain scenarios and physical data center failovers.
+  - TypeScript, Python, Docker, CI/CD pipeline integration.
+  - Automation frameworks (Playwright, Selenium), API test automation.
+  - Strong analytical mindset, root cause analysis, test strategy drafting.
+  - Professional Japanese or English communication.
+- **Salary:** 32,000,000 – 52,000,000 VND / month.
+- **AI Impact Analysis:** Automated test containerization and cloud execution orchestration are assisted by AI scripts, while edge-case requirement validation adheres to strict Japanese quality governance.
+
+---
+
+### Job 9: Senior QA Engineer (Web & Mobile SaaS Platforms)
+- **Company & Location:** ANDPAD Vietnam — District 1, Ho Chi Minh City (Hybrid)
+- **Date Published:** September 08, 2026 (Published within 19 days)
+- **Source Link:** [ITviec - ANDPAD Vietnam](https://itviec.com/nha-tuyen-dung/andpad-vietnam)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Ensure high product quality for the leading construction management cloud SaaS in Japan. Drive functional testing, exploratory testing, regression automation, and collaborate with cross-functional Scrum squads.
+- **Required Skills:**
+  - Solid background in manual and automated testing for Web and Mobile apps.
+  - Test design techniques: Equivalence Partitioning, Boundary Value Analysis, State Transition.
+  - Experience in Japanese software development culture and quality standards.
+  - Fluency in Japanese (N2+) or English.
+- **Salary:** 40,000,000 – 60,000,000 VND / month.
+- **AI Impact Analysis:** In highly regulated industries like construction and civil engineering, human exploratory testing is indispensable to ensure software conforms to complex on-site workflows.
+
+---
+
+### Job 10: QA Engineer (Automation & API Testing)
+- **Company & Location:** YUM! Digital & Technology Vietnam — Ho Chi Minh City (Flexible)
+- **Date Published:** August 15, 2026 (Published within 45 days)
+- **Source Link:** [ITviec - YUM! Digital & Technology](https://itviec.com/nha-tuyen-dung/yum-digital-technology)
+- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
+- **Job Description:** Build and maintain quality frameworks for global digital ordering, point-of-sale (POS), and delivery systems powering KFC, Pizza Hut, and Taco Bell. Implement API automation, microservice end-to-end testing, and load simulation.
+- **Required Skills:**
+  - Over 4 years of QA experience with strong automation focus.
+  - RESTful API testing, Postman, Rest-Assured, Newman.
+  - Cloud-native architectures (AWS/Azure), Docker, CI/CD pipelines.
+  - Fluent English communication.
+- **Salary:** 35,000,000 – 55,000,000 VND / month.
+- **AI Impact Analysis:** AI tools accelerate the generation of realistic customer traffic load profiles, while human engineers maintain payment security compliance and multi-system transaction integrity.
 
 ---
 
