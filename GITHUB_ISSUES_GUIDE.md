@@ -5,6 +5,9 @@
 **Issues URL:** [https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product/issues](https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product/issues)  
 **Instructions:** Create the following 5 issues in your GitHub repository's **Issues** tab. Take a screenshot showing your GitHub account avatar/username in the top right corner and the list of these 5 closed/open issues for the submission!
 
+### Verified Screenshot of 5 Logged Issues
+![5 Physical Defects Logged as GitHub Issues](screenshots/github_issues.png)
+
 ---
 
 ### Issue 1

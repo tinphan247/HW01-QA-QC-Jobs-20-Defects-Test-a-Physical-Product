@@ -846,6 +846,8 @@ All 5 defects have been formally documented as Issues in the student's GitHub re
 - **Repository URL:** [https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product](https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product)
 - **Issues Tracker:** [https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product/issues](https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product/issues)
 
+![5 Physical Defects Logged as GitHub Issues](screenshots/github_issues.png)
+
 #### Defect DEF-01: Volatile Memory Loss (Power-Loss State Reset)
 - **GitHub Issue:** `#1 - [BUG-01] [Firmware] Volatile memory loss resets user settings on USB power-cycle`
 - **Root Cause:** The microcontroller lacks onboard non-volatile EEPROM/Flash storage or battery-backed SRAM. When USB power is severed, all register values are cleared.
