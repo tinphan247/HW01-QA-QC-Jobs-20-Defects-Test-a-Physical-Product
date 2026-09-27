@@ -1,7 +1,8 @@
 # GitHub Issues Bug Logging Guide (Physical Device Defects)
 
 **Student Name:** Phan Trung Tin (ID: 23120372)  
-**Target Repository:** `https://github.com/<your-username>/HW01-Testing`  
+**Target Repository:** [https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product](https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product)  
+**Issues URL:** [https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product/issues](https://github.com/tinphan247/HW01-QA-QC-Jobs-20-Defects-Test-a-Physical-Product/issues)  
 **Instructions:** Create the following 5 issues in your GitHub repository's **Issues** tab. Take a screenshot showing your GitHub account avatar/username in the top right corner and the list of these 5 closed/open issues for the submission!
 
 ---
