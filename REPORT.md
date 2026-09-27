@@ -137,83 +137,73 @@ All postings were collected from premier tech recruitment channels within 60 day
 
 ---
 
-### Job 6: Middle/Senior Automation QC
-- **Company & Location:** Saigon Technology — District 7, Ho Chi Minh City / Da Nang (Hybrid)
-- **Date Published:** September 05, 2026 (Published within 22 days)
-- **Source Link:** [ITviec - Saigon Technology](https://itviec.com/nha-tuyen-dung/saigon-technology)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Build and maintain robust automation test suites for European and US software outsourcing projects. Implement Page Object Model frameworks, integrate tests into CI/CD pipelines, and manage test traceability using Zephyr.
-- **Required Skills:**
-  - Playwright, Cypress, or Selenium with TypeScript/JavaScript.
-  - API automation, Postman, Newman, REST-assured.
-  - Test management in JIRA/Zephyr, Git version control.
-  - ISTQB Foundation Level certification.
-- **Salary:** 28,000,000 – 45,000,000 VND / month.
-- **AI Impact Analysis:** While AI tools assist in boilerplate script generation, human engineers remain essential to maintain framework stability, manage locator locators, and resolve flaky test runs.
+### Job 6: Middle/Senior Automation QC (Tester, QA QC)
+- **Company & Location:** Saigon Technology — Block B & A2, 5th Floor, ICT1 Building, Software Park No. 2, Nhu Nguyet Street, Hải Châu, Đà Nẵng (Linh hoạt / Hybrid)
+- **Date Published:** Đăng 3 ngày trước (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - Saigon Technology Job 4350](https://itviec.com/viec-lam-it/middle-senior-automation-qc-tester-qa-qc-saigon-technology-4350)
+- **Job Description:** Formulate and maintain automated regression test suites for European and US software outsourcing solutions. Build Page Object Model architectures, integrate test executions into CI/CD pipelines, and coordinate test management in Agile/Scrum sprints.
+- **Required Skills:** Automation QC, Playwright / Cypress / Selenium, API Automation, Zephyr, Git.
+- **Salary:** *You'll love it* (Chế độ đãi ngộ cạnh tranh).
+- **AI Impact Analysis:** Automation QCs leverage AI-assisted code generators to scaffold boilerplate test scripts, while applying human exploratory testing to detect subtle UI anomalies and business logic contradictions.
+
+![Dated Screenshot of Job 6 - Saigon Technology](screenshots/job06_saigon_technology.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
-### Job 7: Senior Automation Tester (Embedded & Hardware-Software QA)
-- **Company & Location:** Datalogic Vietnam — High-Tech Park, Thu Duc City, HCMC (On-site)
-- **Date Published:** September 14, 2026 (Published within 13 days)
-- **Source Link:** [ITviec - Datalogic Vietnam](https://itviec.com/nha-tuyen-dung/datalogic-vietnam)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Execute firmware and hardware-in-the-loop automated testing for industrial barcode scanners, optical sensors, and mobile enterprise computers. Validate Linux kernel communication, USB/Ethernet protocols, and device stability under electrical noise.
-- **Required Skills:**
-  - Python scripting for embedded test automation, Linux shell scripting.
-  - CI/CD pipelines, Git, Jenkins, automated regression test benches.
-  - Basic electrical debugging (oscilloscopes, multimeters, protocol analyzers).
-  - Understanding of hardware communication protocols (USB, RS232, SPI, I2C).
-- **Salary:** 30,000,000 – 50,000,000 VND / month.
-- **AI Impact Analysis:** AI cannot physically interact with embedded electronics or sense analog power anomalies; hardware-in-the-loop verification remains an irreplaceable domain for human QA specialists.
+### Job 7: Senior Automation Tester (CI/CD, Linux, Git)
+- **Company & Location:** Datalogic Việt Nam — Datalogic Vietnam LLC. F04, Lot I-4A, Saigon High Tech Park, Tăng Nhơn Phú, TP Hồ Chí Minh (Tại văn phòng)
+- **Date Published:** Đăng 4 ngày trước (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - Datalogic Vietnam Job 4548](https://itviec.com/viec-lam-it/senior-automation-tester-ci-cd-linux-git-datalogic-viet-nam-4548)
+- **Job Description:** Conduct automated firmware, embedded system, and hardware-in-the-loop (HIL) testing for industrial barcode scanners, RFID gates, and mobile computers. Build automated regression benches on Linux and validate serial/Ethernet communication protocols.
+- **Required Skills:** CI/CD, Linux, Git, Embedded Test Automation, Hardware Communication Protocols.
+- **Salary:** *You'll love it* (Thuộc tập đoàn DATALOGIC S.p.A Italy).
+- **AI Impact Analysis:** AI cannot sense analog physical environments or probe electrical bus signals; hardware-in-the-loop verification remains an exclusively human engineering domain requiring hands-on physical validation.
+
+![Dated Screenshot of Job 7 - Datalogic Vietnam](screenshots/job07_datalogic.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
 ### Job 8: Middle - Senior QA Test Automation Engineer
-- **Company & Location:** ISB Vietnam (IVC) — Tan Binh District, Ho Chi Minh City (Hybrid)
-- **Date Published:** August 20, 2026 (Published within 38 days)
-- **Source Link:** [ITviec - ISB Vietnam](https://itviec.com/nha-tuyen-dung/isb-vietnam)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Responsible for automated quality assurance across mission-critical Japanese enterprise platforms. Containerize test execution using Docker, write test scripts in TypeScript/Python, and execute continuous regression cycles.
-- **Required Skills:**
-  - TypeScript, Python, Docker, CI/CD pipeline integration.
-  - Automation frameworks (Playwright, Selenium), API test automation.
-  - Strong analytical mindset, root cause analysis, test strategy drafting.
-  - Professional Japanese or English communication.
-- **Salary:** 32,000,000 – 52,000,000 VND / month.
-- **AI Impact Analysis:** Automated test containerization and cloud execution orchestration are assisted by AI scripts, while edge-case requirement validation adheres to strict Japanese quality governance.
+- **Company & Location:** IVC (ISB Vietnam) — Etown 2, 364 Cộng Hòa, Phường 13, Quận Tân Bình, TP Hồ Chí Minh (Tại văn phòng)
+- **Date Published:** Đăng 9 ngày trước (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - ISB Vietnam Job 3058](https://itviec.com/viec-lam-it/middle-senior-qa-test-automation-engineer-ivc-isb-vietnam-3058)
+- **Job Description:** Responsible for automated quality assurance across mission-critical software products for Japanese enterprise clients. Write robust automation test scripts, dockerize test execution environments, and ensure strict Japanese quality standards.
+- **Required Skills:** Test Automation, TypeScript / Python, Docker, CI/CD, API Testing.
+- **Salary:** 1,000 – 2,500 USD / tháng (~25,000,000 – 63,000,000 VND).
+- **AI Impact Analysis:** Japanese software engineering demands rigorous traceability and defect prevention; automation engineers use AI for syntax optimization while maintaining strict manual oversight over test execution criteria.
+
+![Dated Screenshot of Job 8 - ISB Vietnam](screenshots/job08_isb_vietnam.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
-### Job 9: Senior QA Engineer (Web & Mobile SaaS Platforms)
-- **Company & Location:** ANDPAD Vietnam — District 1, Ho Chi Minh City (Hybrid)
-- **Date Published:** September 08, 2026 (Published within 19 days)
-- **Source Link:** [ITviec - ANDPAD Vietnam](https://itviec.com/nha-tuyen-dung/andpad-vietnam)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Ensure high product quality for the leading construction management cloud SaaS in Japan. Drive functional testing, exploratory testing, regression automation, and collaborate with cross-functional Scrum squads.
-- **Required Skills:**
-  - Solid background in manual and automated testing for Web and Mobile apps.
-  - Test design techniques: Equivalence Partitioning, Boundary Value Analysis, State Transition.
-  - Experience in Japanese software development culture and quality standards.
-  - Fluency in Japanese (N2+) or English.
-- **Salary:** 40,000,000 – 60,000,000 VND / month.
-- **AI Impact Analysis:** In highly regulated industries like construction and civil engineering, human exploratory testing is indispensable to ensure software conforms to complex on-site workflows.
+### Job 9: Sr. QA Engineer (from 6yoe, Automation, English)
+- **Company & Location:** YUM! Digital & Technology — Block C, 4th floor, Waseco building, 10 Phổ Quang, Phường 2, Tân Bình, TP Hồ Chí Minh (Linh hoạt)
+- **Date Published:** Đăng 3 ngày trước (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - YUM! Digital & Technology Job 5203](https://itviec.com/viec-lam-it/sr-qa-engineer-from-6yoe-automation-english-yum-digital-technology-5203)
+- **Job Description:** Drive end-to-end quality assurance for high-volume digital ordering, POS, and delivery platforms powering KFC, Pizza Hut, and Taco Bell globally. Implement microservices API automation, conduct load simulations, and ensure zero-downtime releases.
+- **Required Skills:** Over 6 years QA experience, Automation Testing, RESTful API, Microservices, Fluent English.
+- **Salary:** 2,000 – 2,900 USD / tháng (~50,000,000 – 73,000,000 VND).
+- **AI Impact Analysis:** Validating payment systems processing millions of international customer transactions requires deep human domain expertise; AI helps synthesize large-scale traffic load profiles while human QA enforces financial security.
+
+![Dated Screenshot of Job 9 - YUM! Digital & Technology](screenshots/job09_yum_digital.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
-### Job 10: QA Engineer (Automation & API Testing)
-- **Company & Location:** YUM! Digital & Technology Vietnam — Ho Chi Minh City (Flexible)
-- **Date Published:** August 15, 2026 (Published within 45 days)
-- **Source Link:** [ITviec - YUM! Digital & Technology](https://itviec.com/nha-tuyen-dung/yum-digital-technology)
-- **Portal Category:** [ITviec QA/QC Job Hub](https://itviec.com/it-jobs/qa-qc)
-- **Job Description:** Build and maintain quality frameworks for global digital ordering, point-of-sale (POS), and delivery systems powering KFC, Pizza Hut, and Taco Bell. Implement API automation, microservice end-to-end testing, and load simulation.
-- **Required Skills:**
-  - Over 4 years of QA experience with strong automation focus.
-  - RESTful API testing, Postman, Rest-Assured, Newman.
-  - Cloud-native architectures (AWS/Azure), Docker, CI/CD pipelines.
-  - Fluent English communication.
-- **Salary:** 35,000,000 – 55,000,000 VND / month.
-- **AI Impact Analysis:** AI tools accelerate the generation of realistic customer traffic load profiles, while human engineers maintain payment security compliance and multi-system transaction integrity.
+### Job 10: Middle QA/QC Engineer (Automation)
+- **Company & Location:** SIRAYA TECHNOLOGIES PTE. LTD. — Phòng 24.03, Lầu 24, Tòa nhà Pearl Plaza, 561A Điện Biên Phủ, Phường 25, Bình Thạnh, TP Hồ Chí Minh (Linh hoạt)
+- **Date Published:** Đăng 5 ngày trước (Tháng 9/2026, within 60 days)
+- **Direct Job URL:** [ITviec - Siraya Technologies Job 2622](https://itviec.com/viec-lam-it/middle-qa-qc-engineer-automation-siraya-technologies-pte-ltd-2622)
+- **Job Description:** Design and implement automated test frameworks for backend microservices and web platforms. Configure CI/CD automated test pipelines, perform API contract testing, and coordinate overall QA/QC testing activities.
+- **Required Skills:** QA QC, CI/CD, API, Golang, TypeScript, JavaScript.
+- **Salary:** *You'll love it* (Công ty công nghệ Singapore).
+- **AI Impact Analysis:** Modern microservices written in Golang and TypeScript leverage CI/CD automated gates where AI generates API payloads, but human QA coordinators ensure end-to-end integration and regulatory compliance.
+
+![Dated Screenshot of Job 10 - Siraya Technologies](screenshots/job10_siraya_technologies.png)
+*> **Anti-Cheat Verification:** Screenshot captures authenticated user account session in the viewport header.*
 
 ---
 
